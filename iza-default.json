@@ -1,7 +1,7 @@
 {
   "EnableFaceGlow": true,
   "ArrowScale": {
-    "x": 1.2,
+    "x": 1.1,
     "y": 1.3
   },
   "ArrowPosition": {
@@ -62,10 +62,10 @@
   "RainbowBombValue": 0.9,
   "GlowTexture": "Glow",
   "ArrowMesh": "Default",
-  "LeftMinBrightness": 0.35,
-  "LeftMaxBrightness": 0.75,
-  "RightMinBrightness": 0.25,
-  "RightMaxBrightness": 0.65,
+  "LeftMinBrightness": 0.30,
+  "LeftMaxBrightness": 0.70,
+  "RightMinBrightness": 0.30,
+  "RightMaxBrightness": 0.70,
   "LeftGlowBlendOp": "Add",
   "RightGlowBlendOp": "Add",
   "LeftGlowOffset": {
