@@ -76,7 +76,7 @@
     "x": 0.0,
     "y": 0.0
   },
-  "EnableNoteOutlines": true,
+  "EnableNoteOutlines": false,
   "EnableBombOutlines": true,
   "NoteOutlineScale": 3,
   "BombOutlineScale": 5,
