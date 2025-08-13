@@ -54,7 +54,7 @@
   "BombColor": "#606060",
   "BombColorBoost": 0.0,
   "BombTexture": "Gradient J",
-  "BombScale": 0.9,
+  "BombScale": 0.8,
   "InvertBombTexture": false,
   "EnableRainbowBombs": false,
   "RainbowBombTimeScale": 6.0,
