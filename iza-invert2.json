@@ -1,7 +1,7 @@
 {
   "EnableFaceGlow": true,
   "ArrowScale": {
-    "x": 1.1,
+    "x": 1.2,
     "y": 1.3
   },
   "ArrowPosition": {
@@ -76,7 +76,7 @@
     "x": 0.0,
     "y": 0.0
   },
-  "EnableNoteOutlines": false,
+  "EnableNoteOutlines": true,
   "EnableBombOutlines": true,
   "NoteOutlineScale": 3,
   "BombOutlineScale": 5,
