@@ -36,8 +36,8 @@
     "y": 0.9
   },
   "EnableChainDotGlow": true,
-  "LeftFaceColor": "#FFFFDD",
-  "RightFaceColor": "#DDFFFF",
+  "LeftFaceColor": "#FFFFEE",
+  "RightFaceColor": "#EEFFFF",
   "DotMeshSides": 16,
   "LeftFaceColorNoteSkew": 0.0,
   "RightFaceColorNoteSkew": 0.0,
