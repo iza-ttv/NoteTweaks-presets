@@ -52,7 +52,7 @@
   "NormalizeRightFaceGlowColor": false,
   "NoteTexture": "Default",
   "InvertNoteTexture": false,
-  "BombColor": "#888888",
+  "BombColor": "#989898",
   "BombColorBoost": 0.0,
   "BombTexture": "Fresnel",
   "BombScale": 0.8,
@@ -104,7 +104,7 @@
   "BombMeshSmoothNormals": false,
   "BombMeshWorldNormals": false,
   "NoteTextureBrightness": 1.0,
-  "BombTextureBrightness": 1.0,
+  "BombTextureBrightness": 1.05,
   "NoteTextureContrast": 1.0,
   "BombTextureContrast": 1.0
 }
