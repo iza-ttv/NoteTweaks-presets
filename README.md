@@ -11,3 +11,6 @@ Requires the [extra cubemap/reflection textures](https://github.com/TheBlackParr
 
 ### iza-invert2
 ![iza-invert2](https://github.com/user-attachments/assets/58251f72-509f-4ea7-90e0-94439b069676)
+
+---
+[![CC0](https://github.com/user-attachments/assets/c61297d1-ad85-471c-ac48-3e391d7d4b82)](https://creativecommons.org/publicdomain/zero/1.0/)
